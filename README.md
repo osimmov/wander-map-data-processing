@@ -32,4 +32,11 @@ After collecting raw data, we processed it using Python, `pandas`, and Excel to:
 - `status.py`: Checks the status of each location (e.g., open/closed).
 - `code_1.py`: To get pictures for the given Excel File
 
-
+## How to run
+Follow the steps below to collect, process, and organize location data for Wayne County using the provided scripts.
+1. Prerequisites
+   - Python 3.x
+   - pip (Python package manager)
+   - A Google Places API key with Places API enabled
+  
+  
